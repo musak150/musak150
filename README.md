@@ -1,4 +1,4 @@
-![ Full-Stack Web Developer](https://suspicious-khorana-8ddd62.netlify.app/hero.png.png)
+
 ### Hi there 👋, I am Md Musha Ahamed 
 ####  Full-Stack Web Developer
 
